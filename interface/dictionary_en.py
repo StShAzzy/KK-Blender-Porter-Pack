@@ -34,7 +34,7 @@ translation_dictionary = {
     'cat_drop_C'    : "Separate every object",
     'cat_drop_C_tt' : "Import everything and automatically separate every single piece of clothing into several objects",
     'cat_drop_D'    : "Categorize by SMR Data",
-    'cat_drop_D_tt' : "Import everyting and automatically separate every object by it's Skinned Mesh Renderer. Note: This option is only for exporting meshes so it will not apply any material templates or colors",
+    'cat_drop_D_tt' : "Import everything and automatically separate every object by it's Skinned Mesh Renderer. Note: This option is only for exporting meshes so it will not apply any material templates or colors",
 
     'dark'      : "Dark colors",
     'dark_A'    : "LUT Night",
